@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+
+header { 
+    background-color: rgb(0, 128, 255);
+}
+
+
+h1 {
+    font-size: large;
+}
+
+
+h2 { 
+    font-size: medium;
+    color: brown;
+}
+
+p {
+    font-size: small;
+}
