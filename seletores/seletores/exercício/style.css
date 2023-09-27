@@ -1,0 +1,28 @@
+div { 
+
+    display: inline-block;
+    border: 1px solid rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+
+}
+
+#quad1 { 
+    background-color: darkcyan;
+}
+
+#quad2 {
+    background-color: rgb(142, 107, 63);
+ }
+
+#quad3 { 
+    background-color: cornflowerblue;
+}
+
+#quad4 { 
+    background-color: darkgoldenrod;
+}
+
+#quad5 { 
+    background-color: crimson;
+}
