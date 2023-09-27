@@ -1,0 +1,55 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: bisque;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cadetblue;
+    background-color: antiquewhite;
+    font-size: 32px;
+    font-weight:bolder ;
+}
+
+h2 { 
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+    background-color: antiquewhite;
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+/*
+p { 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 8px ;
+    font-style: oblique;
+    font-weight: 900;
+}
+*/
+
+
+p { 
+    font: oblique bold 8px 'Courier New', Courier, monospace
+}
+
+
+.p1 { 
+    text-align: right;
+}
+
+
+.p2 { 
+    text-align: center;
+}
+
+.p3 { 
+    text-align: left;
+}
+
+
+.p4 { 
+    text-align: justify;
+}
