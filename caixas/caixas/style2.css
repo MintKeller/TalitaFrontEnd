@@ -1,0 +1,12 @@
+body { 
+    background-color: bisque;
+    font: 16px Arial, Helvetica, sans-serif
+}
+
+#artigo1 { 
+    background-color: darkcyan;
+    width: 400px;
+    margin: auto;
+    padding: 1px 10px;
+    box-shadow: 3px 5px 4px rgba(0, 0, 0, 0.788);
+}
